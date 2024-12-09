@@ -42,6 +42,10 @@ plt.show()
 ```
 ## Output
 
+
+
+
+
 ![result](image.png)
 
 ## Result
